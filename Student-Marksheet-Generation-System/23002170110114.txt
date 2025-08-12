@@ -1,0 +1,30 @@
+                                                 Lok Jagruti Kendra University
+                                                    Semester Performance Report 
+                                            L J Institute of Engineering & Technology
+
+Specialization : Computer Engineering                  Semester : Semester_I
+Enrollment No : 23002170110114
+Name : edc
+_______________________________________________________________________________________________________________________________
+Code       |                    Course Title                        | Credit | Theory Grade | Practical Grade | Overall Grade |
+-----------|--------------------------------------------------------|--------|--------------|-----------------|---------------|
+117011191  |Mathematics - I                                         |   6    |    B++       |                 |     B++       |
+117012191  |Computer Programing using Java-I                        |   6    |    B         |     O+          |     A         |
+17013191   |Software Engineering                                    |   4    |    O         |     A++         |     A++       |
+117011192  |Physics                                                 |   4    |    B++       |     B           |     B+        |
+17012192   |IOT Workshop - Laboratory                               |   2    |              |     O+++        |     O+++      |
+17012193   |Computer Workshop - Laboratory                          |   2    |              |     O+          |     O+        |
+17018191   |Environmental Science                                   |   0    |    O+++      |                 |     PASS      |
+_______________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
+                                Semester Performance Index
+Total Credit        24
+Grade Point Earned  179.0
+SPI                 7.46
+_______________________________________________________________________________________________________________________________
+                                Progressive Performance Index
+Total Credit        24
+Grade Point Earned  179.0
+SPI                 7.46
+_______________________________________________________________________________________________________________________________
+Result : PASS
